@@ -1,0 +1,21 @@
+.banner {
+    background: url("img/pink.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.lingkaran{
+    display: inline-block;
+    border-radius: 40%;
+    width: 400px;
+    height: 400px;
+    color: rgb(252, 199, 224);
+    background-color: rgb(189, 138, 165);
+}
+
+.footer {
+    background-color: rgb(189, 138, 165);
+}
+
